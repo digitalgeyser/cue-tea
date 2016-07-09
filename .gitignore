@@ -1,0 +1,5 @@
+*.o
+moc_*
+build-*
+stoy/stoy
+stoy/Makefile
